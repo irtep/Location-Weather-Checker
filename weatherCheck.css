@@ -1,0 +1,63 @@
+.menubtns {
+  
+  width: 100px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: black;
+  color: gold;
+  
+}
+
+.menubtns:hover 
+    {
+        background: black; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(black, gray); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(black, gray); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(black, gray); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(black, gray); /* Standard syntax (must be last) */  
+        border: none;
+        color: yellow; 
+        cursor: pointer;
+        border-radius: 15px;   
+    }
+
+#queen1 {
+  
+  width: 400px;
+  height:100%;
+  border-radius: 15px;
+  
+}
+
+#textAbout {
+  
+  font-family:Pacifico;
+  
+}
+
+#textPort {
+  
+  font-family:PT Serif;
+  
+}
+
+#textSection {
+  
+  text-align:justify;
+  width: 500px;
+  
+}
+
+.acmeFont {
+  
+  font-family: Acme;
+  
+}
+
+#buto1 {
+  
+  color: white;
+  background-color: green;
+  radius: 15px;
+  
+}
